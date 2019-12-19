@@ -1,2 +1,2 @@
 # test
-it´s a repositories that was created for to learn the function of git.
+it´s a repositories that was created for learnig the function of git.
